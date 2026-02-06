@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://trixesmy.github.io/sitemap.xml
